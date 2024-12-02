@@ -1,0 +1,13 @@
+.card-img-top {
+            width: 100%;
+            height: 400px; /* Set the desired height */
+            object-fit: cover; /* Maintain aspect ratio and cover the area */
+        }
+.container{
+padding : 10px;
+}
+.navbar{
+background-color:#26272b;
+line-height:24px;
+  color:#737373;
+}
